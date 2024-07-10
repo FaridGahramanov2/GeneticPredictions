@@ -1,10 +1,9 @@
-CS 451/551 - Assignment 2
 
 April 23, 2024
 
 1  Introduction
 
-In this assignment, you are expected to solve a Linear Regression problem with a genetic algorithm. Five different datasets are provided, and you should imple- ment a genetic algorithm approach to find a promising solution for each dataset. Also, you will analyze the effect of the algorithm’s parameters on the perfor- mance in terms of the objective function and computational time.
+You are expected to solve a Linear Regression problem with a genetic algorithm. Five different datasets are provided, and you should imple- ment a genetic algorithm approach to find a promising solution for each dataset. Also, you will analyze the effect of the algorithm’s parameters on the perfor- mance in terms of the objective function and computational time.
 
 2  Problem Description
 
